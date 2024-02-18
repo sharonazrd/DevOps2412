@@ -1,4 +1,5 @@
 print("sharon")
+print("stam")
 a = "sharon"
 b = "azrad"
 age = 50
