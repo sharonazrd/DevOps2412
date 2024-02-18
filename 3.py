@@ -9,7 +9,6 @@ elif my_name == "sharon":
     print("found your name")
 else:
     print("efi")
-
 print(a ==50)
 
 should_i_work_today = a == 50 and b < 100
