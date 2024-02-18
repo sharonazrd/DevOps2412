@@ -1,4 +1,4 @@
-print("Hello, world!")
+print("Hello, shimon!")
 a = "sharon"
 b = "azrad"
 age = 50
